@@ -1,0 +1,1 @@
+Algoritmo em Python para prever se um passageiro sobreviveria ao afundamento do Titanic. Trabalho para a disciplina de Ferramentas Visuais de Desenvolvimento de Software no curso de Análise e Desenvolvimento de Sistemas na PUC Goiás. Semestre 01/2025.
